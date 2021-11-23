@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <HelloWorld v-cloak msg="Welcome to Your Vue.js App"/>
 </template>
 
 <script>
@@ -23,4 +23,7 @@ export default {
   color: #2c3e50;
   margin-top: 60px;
 }
+
+[v-cloak] { display:none; }
+
 </style>
