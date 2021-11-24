@@ -1,5 +1,5 @@
-# kies-source-frontend
+# kies-code-frontend
 
-[![Node.js CI](https://github.com/KieQ/kies-source-frondend/actions/workflows/node.js.yml/badge.svg)](https://github.com/KieQ/kies-source-frondend/actions/workflows/node.js.yml)
+[![Node.js CI](https://github.com/KieQ/kies-code-frondend/actions/workflows/node.js.yml/badge.svg)](https://github.com/KieQ/kies-code-frondend/actions/workflows/node.js.yml)
 
 This is the front-end source code for project kies.
