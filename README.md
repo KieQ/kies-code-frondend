@@ -1,5 +1,24 @@
 # kies-code-frontend
 
-[![Node.js CI](https://github.com/KieQ/kies-code-frondend/actions/workflows/node.js.yml/badge.svg)](https://github.com/KieQ/kies-code-frondend/actions/workflows/node.js.yml)
+## Project setup
+```
+npm install
+```
 
-This is the front-end source code for project kies.
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
