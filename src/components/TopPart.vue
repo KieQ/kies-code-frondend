@@ -3,7 +3,7 @@
     <div class="container-fluid">
       <a class="navbar-brand" href="/">
         <img
-          src="../assets/img/default_profile.jpeg"
+          src="../assets/img/default_video_logo.png"
           width="30"
           height="30"
           class="d-inline-block align-top"
