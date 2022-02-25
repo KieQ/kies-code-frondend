@@ -234,8 +234,7 @@ export default {
       }
     },
     async remove(key) {
-      console.log("hello");
-      let resp = await fetch(`http://localhost:8082/video/remove`, {
+      let resp = await fetch(`${api}/video/remove`, {
         method: "POST",
         headers: {
           "Content-Type": "text/plain",
