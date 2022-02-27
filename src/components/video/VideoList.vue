@@ -150,7 +150,6 @@ export default {
     },
 
     play(name) {
-      console.log(encodeURIComponent(name));
       window.location.href = `/media/${encodeURIComponent(name)}`
     },
     async download_with_hash(key) {
